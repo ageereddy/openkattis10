@@ -63,26 +63,26 @@ namespace In_class_10_Entity_Framework
 
 
 
-                Order order1 = new Order { CustName = "Kolliboina" };
-                Order order2 = new Order { CustName = "Syam" };
-                Order order3 = new Order { CustName = "Prasad" };
+                Order order1 = new Order { CustName = "Amulya" };
+                Order order2 = new Order { CustName = "Kavitha" };
+                Order order3 = new Order { CustName = "Akanksha" };
                 Product product1 = new Product
                 {
-                    ProductName = "Kaya",
+                    ProductName = "Mac",
                     ListPrice = 25,
-                    SupplierName = "Eeeyu"
+                    SupplierName = "Maccosmetics"
                 };
                 Product product2 = new Product
                 {
-                    ProductName = "Kachori",
+                    ProductName = "eyeliner",
                     ListPrice = 50,
-                    SupplierName = "Kirakkk"
+                    SupplierName = "Lakme"
                 };
                 Product product3 = new Product
                 {
-                    ProductName = "Yahun yahun",
+                    ProductName = "body lotion",
                     ListPrice = 75,
-                    SupplierName = "Fasak"
+                    SupplierName = "Aveeno"
                 };
 
 
